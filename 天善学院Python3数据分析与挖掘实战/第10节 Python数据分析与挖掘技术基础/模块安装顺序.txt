@@ -1,6 +1,0 @@
-1、numpy、mkl（下载安装，例如numpy-1.13.3+mkl-cp36-cp36m-win32.whl，要numpy和mkl组合的）
-2、pandas（网络安装）
-3、matplotlib（网络安装）
-4、scipy（下载安装）
-5、statsmodels（网络安装）
-6、Gensim（网络安装）
