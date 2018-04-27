@@ -20,7 +20,7 @@ class QSBK:
         self.stories = []
         # 存放程序是否继续运行的变量
         self.enable = False
-##
+#
     # 传入某一页的索引获得页面代码
     def getPage(self, pageIndex):
         try:
