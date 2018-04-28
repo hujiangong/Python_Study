@@ -23,7 +23,7 @@ class QSBK:
 #
     # 传入某一页的索引获得页面代码
     def getPage(self, pageIndex):
-        try:
+        # try:
             # 设置使用代理
             proxy = {'http': '172.17.18.80:8080'}
             proxy_support = urllib2.ProxyHandler(proxy)
@@ -39,16 +39,16 @@ class QSBK:
             pageCode = response.read().decode('utf-8')
             return pageCode
 
-        except urllib2.URLError, e:
-            if hasattr(e, "reason"):
-                print u"连接糗事百科失败,错误原因", e.reason
-                return None
+        # except urllib2.URLError, e:
+        #     if hasattr(e, "reason"):
+        #         print u"连接糗事百科失败,错误原因", e.reason
+        #         return None
 
     # 传入某一页代码，返回本页不带图片的段子列表
     def getPageItems(self, pageIndex):
         pageCode = self.getPage(pageIndex)
         if not pageCode:
-            print "页面加载失败...."
+            print ("页面加载失败....")
             return None
         pattern = re.compile(
             '<div class="author clearfix">.*?<a href="/users/.*?/" target="_blank" rel="nofollow">.*?<img src="http://pic.qiushibaike.com/system/avtnew/.*?.JPEG" alt="(.*?)"/>.*?<div class="content">.*?<span>(.*?)</span>',
@@ -76,7 +76,7 @@ class QSBK:
             if len(self.stories) < 2:
                 # 获取新一页
                 pageStories = self.getPageItems(self.pageIndex)
-                print u"读取完毕"
+                print (u"读取完毕")
                 # 将该页的段子存放到全局list中
                 if pageStories:
                     self.stories.append(pageStories)
@@ -96,10 +96,10 @@ class QSBK:
                 self.enable = False
                 return
 #            print u"第%d页\t发布人:%s\t发布时间:%s\t赞:%s\n%s" % (page, story[0], story[2], story[3], story[1])
-            print u"第%d页\t发布人:%s\n%s" % (page, story[0], story[1])
+            print (u"第%d页\t发布人:%s\n%s" % (page, story[0], story[1]))
     # 开始方法
     def start(self):
-        print u"正在读取糗事百科,按回车查看新段子，Q退出"
+        print (u"正在读取糗事百科,按回车查看新段子，Q退出")
         # 使变量为True，程序可以正常运行
         self.enable = True
         # 先加载一页内容

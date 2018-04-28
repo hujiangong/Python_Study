@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9053b128-eae1-4cef-92c7-1d9f594c8644" name="Default" comment="init commit" />
+    <list default="true" id="9053b128-eae1-4cef-92c7-1d9f594c8644" name="Default" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他/qiubai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他/qiubai3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/文件.txt" beforeDir="false" afterPath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,71 +18,81 @@
       <file leaf-file-name="爬取腾讯视频短评.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1577">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sdf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/sdf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="比较用.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/比较用.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="样本训练.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/情感分析/样本训练.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="测试样本" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/情感分析/测试样本">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qiubai3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/其他/qiubai3.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding />
+              <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="输出分析.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/情感分析/输出分析.py">
+      <file leaf-file-name="urllib库实战.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="608">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urllib库实战2" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="878">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="代理服务器.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/代理服务器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="淘宝图片.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/淘宝图片.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="课后千图网图片.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/课后千图网图片.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-117" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="爬虫的浏览器伪装技术.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/爬虫的浏览器伪装技术.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="小常识" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/小常识">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fiddler" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/Fiddler">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -118,8 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/学习解疑/python导入机制.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch02/测试.py" />
         <option value="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py" />
         <option value="$PROJECT_DIR$/test/b.py" />
         <option value="$PROJECT_DIR$/test/c.py" />
@@ -169,33 +181,23 @@
         <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/sdf.py" />
         <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py" />
         <option value="$PROJECT_DIR$/其他/qiubai3.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/urllib.request.install_opener的作用" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="125" />
-    <option name="y" value="247" />
-    <option name="width" value="1145" />
+    <option name="x" value="-1373" />
+    <option name="y" value="298" />
+    <option name="width" value="1291" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,10 +210,23 @@
               <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
               <item name="天善学院Python3数据分析与挖掘实战" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
+              <item name="天善学院Python3数据分析与挖掘实战" type="462c0819:PsiDirectoryNode" />
+              <item name="第4节 urllib库实战" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
+              <item name="天善学院Python3数据分析与挖掘实战" type="462c0819:PsiDirectoryNode" />
+              <item name="第6节 scrapy框架的安装" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,19 +235,19 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\学习\Python\workspace-64bit\其他" />
-      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二\解决能力定义校准表\20180226" />
-      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二" />
-      <recent name="D:\学习\Python\workspace-64bit\machinelearninginaction\Ch04 朴素贝叶斯" />
-      <recent name="D:\学习\Python\workspace-64bit\machinelearninginaction\Ch03 决策树的构造" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第14节 文本挖掘" />
       <recent name="D:\学习\Python\workspace-64bit\python库\numpy" />
       <recent name="D:\学习\Python\workspace-64bit\python库\Tkinter\Button" />
       <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二" />
       <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二\allfile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\Python\workspace-64bit\其他" />
+      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二\解决能力定义校准表\20180226" />
+      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二" />
+      <recent name="D:\学习\Python\workspace-64bit\machinelearninginaction\Ch04 朴素贝叶斯" />
+      <recent name="D:\学习\Python\workspace-64bit\machinelearninginaction\Ch03 决策树的构造" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,6 +264,7 @@
   </component>
   <component name="RunManager" selected="Python.爬取腾讯视频短评">
     <configuration name="爬取腾讯视频短评" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -259,7 +275,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -267,6 +282,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="Button_状态" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -277,7 +293,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python库/Tkinter/Button/Button_状态.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -303,6 +318,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="输出Unicode编码" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,7 +329,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/输出Unicode编码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -321,6 +336,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="替换Unicode中的emoji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -331,7 +347,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/替换Unicode中的emoji.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -357,6 +372,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="append&amp;extend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -367,7 +383,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习解疑/append&amp;extend.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -375,6 +390,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="sdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -385,30 +401,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/sdf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Button_状态" />
-      <item index="1" class="java.lang.String" itemvalue="Python.append&amp;extend" />
-      <item index="2" class="java.lang.String" itemvalue="Python.输出Unicode编码" />
-      <item index="3" class="java.lang.String" itemvalue="Python.爬取腾讯视频短评" />
-      <item index="4" class="java.lang.String" itemvalue="Python.替换Unicode中的emoji" />
+    <list>
+      <item itemvalue="Python.Button_状态" />
+      <item itemvalue="Python.append&amp;extend" />
+      <item itemvalue="Python.输出Unicode编码" />
+      <item itemvalue="Python.爬取腾讯视频短评" />
+      <item itemvalue="Python.替换Unicode中的emoji" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.爬取腾讯视频短评" />
-        <item index="1" class="java.lang.String" itemvalue="Python.替换Unicode中的emoji" />
-        <item index="2" class="java.lang.String" itemvalue="Python.输出Unicode编码" />
+      <list>
+        <item itemvalue="Python.爬取腾讯视频短评" />
+        <item itemvalue="Python.替换Unicode中的emoji" />
+        <item itemvalue="Python.输出Unicode编码" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -455,26 +467,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2313988" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35457516" sideWeight="0.50595236" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35399672" sideWeight="0.4940476" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36052203" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980424" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16385669" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32952693" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50595236" side_tool="true" weight="0.35399672" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4940476" weight="0.35399672" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.36052203" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32843137" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3980424" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.36052203" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2313988" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32952693" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3980424" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50595236" side_tool="true" visible="true" weight="0.35399672" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4940476" weight="0.35399672" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -571,7 +603,6 @@
       </breakpoints-dialog>
       <option name="time" value="28" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -593,104 +624,67 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python库/Tkinter/Button/dd.py" />
-    <entry file="file://$PROJECT_DIR$/python库/Tkinter/Button/asdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="941" column="45" lean-forward="false" selection-start-line="941" selection-start-column="8" selection-end-line="941" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="2807" column="0" lean-forward="false" selection-start-line="2807" selection-start-column="0" selection-end-line="2811" selection-end-column="73" />
+          <caret line="2807" selection-start-line="2807" selection-end-line="2811" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python库/mat/sas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/第一个scrapy爬虫.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/不定量07版excel合并_bete2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/scrapy 文件介绍">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/XPath表达式">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/Fiddler">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="69" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/小常识">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python库/numpy/Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python库/numpy/cumsum函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/学习解疑/append&amp;extend.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/machinelearninginaction/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch04 朴素贝叶斯/bayes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -699,143 +693,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/课后千图网图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/代理服务器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/百度搜索.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/百度搜索2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/文件.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/课后.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="64" />
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/输出Unicode编码.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10450">
-          <caret line="575" column="4" lean-forward="false" selection-start-line="575" selection-start-column="4" selection-end-line="575" selection-end-column="4" />
+          <caret line="575" column="4" selection-start-line="575" selection-start-column="4" selection-end-line="575" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/替换Unicode中的emoji.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
-          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="23" />
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/新浪新闻爬虫实战.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/爬虫的浏览器伪装技术.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/淘宝图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/pandas数据导入.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第11节 Python数据可视化分析实现/matplotlib基础.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第12节 Python数据清洗、集成与变换/数据清洗.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-675">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/数据规约.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/情感分析/adfas df.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/情感分析/adfas df1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/情感分析/asdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/文件操作.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -843,32 +770,23 @@
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/小说文本挖掘.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/其他/叶子模型/聚类分析——Kmeans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/teset1.txt" />
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/write.txt" />
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/sdf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -876,44 +794,105 @@
     <entry file="file://$PROJECT_DIR$/情感分析/12-19chat_collect_list.txt" />
     <entry file="file://$PROJECT_DIR$/情感分析/test1.txt" />
     <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/比较用.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/样本训练.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/情感分析/输出分析.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/测试样本">
+    <entry file="file://$PROJECT_DIR$/其他/qiubai3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="684">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/其他/qiubai3.py">
+    <entry file="file://$PROJECT_DIR$/情感分析/测试样本">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/情感分析/样本训练.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/文件.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/代理服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/淘宝图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/课后千图网图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/爬虫的浏览器伪装技术.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/小常识">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/Fiddler">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/urllib.request.install_opener的作用">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
+          <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
