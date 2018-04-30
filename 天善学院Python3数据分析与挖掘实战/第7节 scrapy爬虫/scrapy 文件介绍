@@ -1,3 +1,4 @@
-items 爬取的网站
+items 爬取的网站、内容。即容器
 pipelines 设置后续的处理
-settings 配置信息
+settings 配置信息，例如用户代理、cookie、浏览器模拟等
+spider文件夹   存放爬虫文件的地方，可以有一个或者多个
