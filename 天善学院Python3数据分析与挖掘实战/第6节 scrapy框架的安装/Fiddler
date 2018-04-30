@@ -2,3 +2,4 @@
 2.clear可以清理界面。
 3.可以在页面右下中的'TextView'找到对应连接的内容,有些内容已经被encode了，需要decode一下。
 4.Fiddler如何抓取HTTPS协议的网页 -->  https://ask.hellobi.com/blog/weiwei/5159
+##
