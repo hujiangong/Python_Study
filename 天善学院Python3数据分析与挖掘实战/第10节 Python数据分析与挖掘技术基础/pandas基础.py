@@ -2,8 +2,15 @@ import pandas
 # TODO pandas.DataFrame()待学习
 # pandas.DataFrame()
 # Series：数据串
-#x=pandas.Series([3,1,3,6])
-#print(x)
+# x=pandas.Series([3,1,3,6])
+# print(x)
+# print(x.index)
+# print(x.values)
+# for inde in x.index:
+    # print(str(inde)+':'+str(x[inde]))
+    # print(inde)
+    # print(x[inde])
+# print(x[0])
 '''
 index data
 0    3
@@ -13,11 +20,16 @@ index data
 dtype: int64
 '''
 # 指定索引
-#x1=pandas.Series([3,1,3,6],index=["no1","no2","no3","no4"])
-#print(x1)
+# x1=pandas.Series([3,1,3,6],index=["no1","no2","no3","no4"])
+# x1.loc[1]['test']=9
+# print(x1)
 
 # DataFrame：数据框
 y=pandas.DataFrame([[3,5,2,1],[2,6,8,11],[11,63,91]])
+print(y)
+list=[1,2,3,4,5,6,7,8,9]
+x=pandas.DataFrame(list)
+print(y)
 #print(y)
 '''
     0   1   2     3
@@ -106,5 +118,5 @@ no33   11   63   91   23
 #print(y1.ix["no22":"no33"])
 #print(y1.ix["no22":"no33",[0,2]]) # 取特定的列
 # 当使用标签索引时，范围为[]，当使用数字索引时，范围为[)，好奇怪！
-print(y1.ix["no22":"no33",0:1])
-print(y1.ix[0:0,0:1])
+# print(y1.ix["no22":"no33",0:1])
+# print(y1.ix[0:0,0:1])
