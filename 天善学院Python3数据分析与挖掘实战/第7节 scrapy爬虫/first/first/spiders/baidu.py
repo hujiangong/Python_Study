@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-
+from 
 
 class BaiduSpider(scrapy.Spider):
     name = 'baidu'
@@ -8,4 +8,7 @@ class BaiduSpider(scrapy.Spider):
     start_urls = ['http://baidu.com/']
 
     def parse(self, response):
-        pass
+        response.xpath("")
+        # pass
+import sys
+print(sys.path)

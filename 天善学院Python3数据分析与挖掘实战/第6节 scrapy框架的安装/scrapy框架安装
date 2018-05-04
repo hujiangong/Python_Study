@@ -6,4 +6,4 @@
 5.安装pywin32。
     不一定需要，安装完scrapy以后，可以通过"scrapy fetch http://www.baidu.com"测试，
     如果报"ModuleNotFoundError: No module named 'win32api'"错误
-    通过"pip install pywin"安装
+    通过"pip install pywin32"安装

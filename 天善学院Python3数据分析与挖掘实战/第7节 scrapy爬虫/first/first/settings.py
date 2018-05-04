@@ -64,9 +64,11 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'first.pipelines.FirstPipeline': 300,
-#}
+# 如果要启用pipelines.py中内容，将下面三行中的注释去掉
+ITEM_PIPELINES = {
+    # 项目名.文件名.类名:序号
+   'first.pipelines.FirstPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
