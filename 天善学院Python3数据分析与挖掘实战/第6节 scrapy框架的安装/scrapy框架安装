@@ -1,9 +1,0 @@
-1.首先升级pip。在cmd命令下输入"python -m pip install --upgrade pip"
-2.安装visual studio 2015专业版。
-3.安装lxml。通过本地安装的方式。从"https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml"中下载wheel安装包，
-    pip install wheel_name.whl
-4.pip install scrapy
-5.安装pywin32。
-    不一定需要，安装完scrapy以后，可以通过"scrapy fetch http://www.baidu.com"测试，
-    如果报"ModuleNotFoundError: No module named 'win32api'"错误
-    通过"pip install pywin32"安装

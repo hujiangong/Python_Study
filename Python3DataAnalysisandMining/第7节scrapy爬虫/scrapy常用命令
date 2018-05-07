@@ -1,0 +1,41 @@
+在通常目录下可以执行的命令
+    scrapy fetch http://www.baidu.com [--nolog]
+        显示爬取的过程及内容
+        --nolog 只显示爬取的内容，不显示过程
+
+    scrapy runspider spider_name.py
+        运行一个爬虫文件
+
+    scrapy sheel url
+        运行一个scrapy交互终端进行调试
+
+    scrapy startproject first
+        创建一个爬虫项目
+
+    scrapy version
+        显示版本号
+
+    scrapy view url
+        自动下载网址并通过浏览器打开
+
+在项目下可以执行的命令
+    scrapy bench
+        测试性能
+    scrapy genspider -l
+        列出可以使用的爬虫模板
+            basic   基本爬虫
+            crawl   自动爬虫
+            csvfeed 处理CSV文件类型
+            xmlfeed 处理xml文件类型
+    scrapy genspider -t basic <name> 域名
+        创建一个basic模板的爬虫文件
+    scrapy check <name>
+        测试创建好的爬虫文件
+    scrapy crawl <name>
+        运行爬虫文件
+    scrapy list
+        列出爬虫文件
+    scrapy edit
+        通过编辑器打开爬虫文件(在windows下运行不了)
+    scrapy parse [options] <url>
+        通过指定的爬虫文件爬取网站

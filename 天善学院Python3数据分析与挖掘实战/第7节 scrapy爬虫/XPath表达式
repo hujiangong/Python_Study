@@ -1,5 +1,0 @@
-/html/head/title  #取html标签下的head标签下的title标签
-text()  #取标签的文本内容
-@  #取标签的属性信息
-//  #寻找所有的标签
-标签[@属性=值]  来确定某一属性 //li[@class="xs"]/a/@href 取class属性为xs的所有li标签下的a标签的href属性的值

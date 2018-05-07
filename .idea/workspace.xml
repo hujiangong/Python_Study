@@ -2,9 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9053b128-eae1-4cef-92c7-1d9f594c8644" name="Default" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他/qiubai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/其他/qiubai3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/文件.txt" beforeDir="false" afterPath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/numpy基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/numpy基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/pandas基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/pandas基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/pandas数据导入.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/pandas数据导入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/数据分析与数据挖掘对比" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/数据分析与数据挖掘对比" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/数据挖掘模块介绍.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/数据挖掘模块介绍.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/数据挖掘的过程.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/数据挖掘的过程.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/模块安装顺序.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/模块安装顺序.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第11节 Python数据可视化分析实现/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第11节 Python数据可视化分析实现/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第11节 Python数据可视化分析实现/matplotlib基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第11节 Python数据可视化分析实现/matplotlib基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第12节 Python数据清洗、集成与变换/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第12节 Python数据清洗、集成与变换/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第12节 Python数据清洗、集成与变换/数据清洗.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第12节 Python数据清洗、集成与变换/数据清洗.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第12节 Python数据清洗、集成与变换/数据清洗步骤.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第12节 Python数据清洗、集成与变换/数据清洗步骤.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/数据规约" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/数据规约" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/数据规约.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/数据规约.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/数据规范化" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/数据规范化" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/数据规范化.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/数据规范化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/离散化" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/离散化" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/离散化.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第13节 数据转换、属性构造、数据规约/离散化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第14节 文本挖掘/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/小说文本挖掘.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第14节 文本挖掘/小说文本挖掘.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/文本挖掘.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第14节 文本挖掘/文本挖掘.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/绝世唐门.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第14节 文本挖掘/绝世唐门.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/corpus.mm" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/corpus.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/corpus.mm.index" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/corpus.mm.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/文本分析相似度分析.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/文本分析相似度分析.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/文本相似度分析步骤" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/文本相似度分析步骤" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/比较用.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/比较用.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/绝世唐门.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/绝世唐门.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/绝世唐门2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/绝世唐门2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/绝世唐门3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/绝世唐门3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/绝世唐门4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/绝世唐门4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/绝世唐门5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/绝世唐门5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/诛仙.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第15节 文本相似度分析/诛仙.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第1节 Python基础一/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第1节 Python基础一/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第1节 Python基础一/控制语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第1节 Python基础一/控制语句.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第1节 Python基础一/数据结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第1节 Python基础一/数据结构.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第1节 Python基础一/课后.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第1节 Python基础一/课后.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/Excel操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/Excel操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/PythonGUI基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/PythonGUI基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/allfile.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/allfile.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/allfile/2007_1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/allfile/2007_1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/allfile/2007_2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/allfile/2007_2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/allfile/2007_3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/allfile/2007_3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/allfile/2007_4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/allfile/2007_4.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/不定量07版excel合并.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/不定量07版excel合并.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/不定量07版excel合并_bete2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/不定量07版excel合并_bete2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/异常处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/文件操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/文件操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/课后.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/课后.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/选择目录、文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/选择目录、文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第3节 Python爬虫初识/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第3节 Python爬虫初识/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第3节 Python爬虫初识/课后.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第3节 Python爬虫初识/课后.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第3节 Python爬虫初识/豆瓣出版社.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第3节 Python爬虫初识/豆瓣出版社.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/0.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/csdn/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/csdn/9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/urllib库实战.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/urllib库实战2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/urllib异常处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/天善学院首页.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/天善学院首页.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/文件.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/文件.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/新浪新闻爬虫实战.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/新浪新闻爬虫实战.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/爬虫的浏览器伪装技术.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/爬虫的浏览器伪装技术.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/百度搜索.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/百度搜索.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/百度搜索2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/百度搜索2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/课后.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第4节 urllib库实战/课后.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第5节 爬虫代理服务器实战/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/代理服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第5节 爬虫代理服务器实战/代理服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/淘宝图片.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第5节 爬虫代理服务器实战/淘宝图片.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/课后千图网图片.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第5节 爬虫代理服务器实战/课后千图网图片.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/Fiddler" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/Fiddler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/scrapy框架安装" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/scrapy框架安装" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第0篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第0篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第1篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第1篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第2篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第2篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第3篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第3篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第4篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第4篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第5篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第5篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第6篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第6篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第7篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第7篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第8篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第8篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第0页第9篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第0页第9篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第0篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第0篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第1篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第1篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第2篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第2篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第3篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第3篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第4篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第4篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第5篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第5篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第6篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第6篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第7篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第7篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第8篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第8篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第1页第9篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第1页第9篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第0篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第0篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第1篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第1篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第2篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第2篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第3篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第3篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第4篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第4篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第5篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第5篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第6篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第6篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/weixinhtml/第2页第7篇文章.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/weixinhtml/第2页第7篇文章.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/多线程爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/多线程爬虫.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/小常识" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/小常识" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/微信爬虫实战.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/微信爬虫实战.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/替换Unicode中的emoji.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/替换Unicode中的emoji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/爬取腾讯视频短评.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/输出Unicode编码.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/输出Unicode编码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/XPath表达式" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/XPath表达式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/scrapy 文件介绍" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/scrapy 文件介绍" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/scrapy常用命令" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/scrapy常用命令" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/第一个scrapy爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/第一个scrapy爬虫.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习解疑/python导入机制.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习解疑/python导入机制.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,84 +153,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="爬取腾讯视频短评.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py">
+      <file leaf-file-name="baidu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urllib库实战.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urllib库实战2" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2">
+      <file leaf-file-name="qsbk.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/qsbk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="878">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="代理服务器.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/代理服务器.py">
+      <file leaf-file-name="微信爬虫实战.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/微信爬虫实战.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="152">
+              <caret line="18" column="112" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="112" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="淘宝图片.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/淘宝图片.py">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="190">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="课后千图网图片.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/课后千图网图片.py">
+      <file leaf-file-name="XPath表达式" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/XPath表达式">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-117" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="爬虫的浏览器伪装技术.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/爬虫的浏览器伪装技术.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="小常识" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/小常识">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fiddler" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/Fiddler">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -124,6 +231,11 @@
       <find>raw_input</find>
       <find>True</find>
       <find>TencentMoive</find>
+      <find>uni</find>
+      <find>tpye</find>
+      <find>pywin</find>
+      <find>pip</find>
+      <find>rob</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,25 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py" />
-        <option value="$PROJECT_DIR$/test/b.py" />
-        <option value="$PROJECT_DIR$/test/c.py" />
-        <option value="$PROJECT_DIR$/test/bbbbb.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN-dating.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN-image.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch03 决策树的构造/test.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch03 决策树的构造/adfa.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch03 决策树的构造/trees.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch03 决策树的构造/treePlotter.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch03 决策树的构造/treeGlasses.py" />
-        <option value="$PROJECT_DIR$/machinelearninginaction/Ch04 朴素贝叶斯/bayes.py" />
-        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/课后.py" />
-        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/不定量07版excel合并.py" />
-        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/PythonGUI基础.py" />
-        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/选择目录、文件.py" />
-        <option value="$PROJECT_DIR$/python库/Tkinter/Button.py" />
-        <option value="$PROJECT_DIR$/python库/Tkinter/Button/Button_base.py" />
-        <option value="$PROJECT_DIR$/python库/Tkinter/Button/Button_relief.py" />
         <option value="$PROJECT_DIR$/python库/Tkinter/Button/Button_compound.py" />
         <option value="$PROJECT_DIR$/python库/Tkinter/Button/Button_控件焦点.py" />
         <option value="$PROJECT_DIR$/python库/Tkinter/Button/Button_大小.py" />
@@ -183,14 +276,33 @@
         <option value="$PROJECT_DIR$/其他/qiubai3.py" />
         <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/urllib.request.install_opener的作用" />
         <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/get请求添加header的两种方法" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/pandas基础.py" />
+        <option value="$PROJECT_DIR$/其他/打车数据处理/cancel_tmp" />
+        <option value="$PROJECT_DIR$/其他/打车数据处理/数据处理.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/XPath表达式" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/scrapy框架安装" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/items.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/pipelines.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/test.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/settings.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/test.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/baidu.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节scrapy爬虫/first/first/items.py" />
+        <option value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节scrapy爬虫/first/first/spiders/baidu.py" />
+        <option value="$PROJECT_DIR$/学习解疑/python导入机制.py" />
+        <option value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py" />
+        <option value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/items.py" />
+        <option value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/qsbk.py" />
+        <option value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/pipelines.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1373" />
-    <option name="y" value="298" />
-    <option name="width" value="1291" />
-    <option name="height" value="728" />
+    <option name="x" value="-1105" />
+    <option name="y" value="165" />
+    <option name="width" value="1032" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,19 +320,43 @@
             <path>
               <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
-              <item name="天善学院Python3数据分析与挖掘实战" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
-              <item name="天善学院Python3数据分析与挖掘实战" type="462c0819:PsiDirectoryNode" />
-              <item name="第4节 urllib库实战" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
-              <item name="天善学院Python3数据分析与挖掘实战" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
               <item name="第6节 scrapy框架的安装" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
+              <item name="第7节scrapy爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
+              <item name="第7节scrapy爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
+              <item name="第7节scrapy爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
+              <item name="第7节scrapy爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,24 +366,33 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="workspace-64bit" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="workspace-64bit" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第14节 文本挖掘" />
-      <recent name="D:\学习\Python\workspace-64bit\python库\numpy" />
-      <recent name="D:\学习\Python\workspace-64bit\python库\Tkinter\Button" />
-      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二" />
-      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二\allfile" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第7节 scrapy爬虫\first\first\spiders" />
+      <recent name="D:\学习\Python\workspace-64bit\其他\打车数据处理" />
       <recent name="D:\学习\Python\workspace-64bit\其他" />
       <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二\解决能力定义校准表\20180226" />
       <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第2节 Python基础二" />
-      <recent name="D:\学习\Python\workspace-64bit\machinelearninginaction\Ch04 朴素贝叶斯" />
-      <recent name="D:\学习\Python\workspace-64bit\machinelearninginaction\Ch03 决策树的构造" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第7节 scrapy爬虫\first\first" />
+      <recent name="D:\学习\Python\workspace-64bit\其他\打车数据处理" />
+      <recent name="D:\学习\Python\workspace-64bit\天善学院Python3数据分析与挖掘实战\第14节 文本挖掘" />
+      <recent name="D:\学习\Python\workspace-64bit\python库\numpy" />
+      <recent name="D:\学习\Python\workspace-64bit\python库\Tkinter\Button" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,8 +407,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.爬取腾讯视频短评">
-    <configuration name="爬取腾讯视频短评" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test (2)">
+    <configuration name="数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,83 +416,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/其他/打车数据处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Button_状态" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-64bit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python库/Tkinter/Button" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python库/Tkinter/Button/Button_状态.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Button_绑定变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python库/Tkinter/Button" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="workspace-64bit" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python库/Tkinter/Button/Button_绑定变量.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="输出Unicode编码" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-64bit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/输出Unicode编码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="替换Unicode中的emoji" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-64bit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/替换Unicode中的emoji.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他/打车数据处理/数据处理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,7 +444,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="append&amp;extend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="baidu (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,17 +452,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习解疑" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习解疑/append&amp;extend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-64bit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,28 +470,83 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/sdf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节scrapy爬虫/first/first/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节scrapy爬虫/first/first/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-64bit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/first/first/spiders/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Button_状态" />
-      <item itemvalue="Python.append&amp;extend" />
-      <item itemvalue="Python.输出Unicode编码" />
-      <item itemvalue="Python.爬取腾讯视频短评" />
-      <item itemvalue="Python.替换Unicode中的emoji" />
+      <item itemvalue="Python.数据处理" />
+      <item itemvalue="Python.baidu" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.test (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.爬取腾讯视频短评" />
-        <item itemvalue="Python.替换Unicode中的emoji" />
-        <item itemvalue="Python.输出Unicode编码" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.baidu" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -470,42 +598,42 @@
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16385669" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16438356" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50595236" side_tool="true" weight="0.35399672" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4940476" weight="0.35399672" />
-      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.36052203" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4940476" weight="0.35273367" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32804233" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.29738563" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34232366" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3980424" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" visible="true" weight="0.32804233" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.36052203" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2313988" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32952693" />
-      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32952693" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4940476" weight="0.35399672" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.35947713" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3980424" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50595236" side_tool="true" visible="true" weight="0.35399672" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4940476" weight="0.35399672" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50595236" side_tool="true" weight="0.35399672" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32952693" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -624,275 +752,317 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="2807" selection-start-line="2807" selection-end-line="2811" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python库/mat/sas.py">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/第一个scrapy爬虫.py">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习解疑/python导入机制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/scrapy常用命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02 k-近邻算法/kNN-dating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习解疑/python导入机制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/scrapy常用命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02 k-近邻算法/kNN-dating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习解疑/python导入机制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/爬取腾讯视频短评.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="44" column="64" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/文件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他/打车数据处理/taxi.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1282" column="41" selection-start-line="1282" selection-start-column="41" selection-end-line="1282" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/pandas/core/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="871" column="21" selection-start-line="871" selection-start-column="15" selection-end-line="871" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="719" selection-start-line="719" selection-end-line="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/numpy基础.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/pandas数据导入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第10节 Python数据分析与挖掘技术基础/pandas基础.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="106" column="6" selection-start-line="106" selection-start-column="2" selection-end-line="106" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他/打车数据处理/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他/打车数据处理/cancel_tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他/打车数据处理/数据处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/scrapy框架安装">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch03 决策树的构造/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02 k-近邻算法/kNN-dating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/scrapy常用命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习解疑/python导入机制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/不定量07版excel合并_bete2.py">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="288">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/scrapy 文件介绍">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第7节 scrapy爬虫/XPath表达式">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/XPath表达式">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python库/numpy/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python库/numpy/cumsum函数.py">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第6节 scrapy框架的安装/微信爬虫实战.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+          <caret line="18" column="112" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习解疑/append&amp;extend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machinelearninginaction/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch04 朴素贝叶斯/bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1235">
-          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/百度搜索.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/百度搜索2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/课后.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/输出Unicode编码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10450">
-          <caret line="575" column="4" selection-start-line="575" selection-start-column="4" selection-end-line="575" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/替换Unicode中的emoji.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/新浪新闻爬虫实战.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第10节 Python数据分析与挖掘技术基础/pandas数据导入.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第11节 Python数据可视化分析实现/matplotlib基础.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第12节 Python数据清洗、集成与变换/数据清洗.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第13节 数据转换、属性构造、数据规约/数据规约.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/adfas df.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/adfas df1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/asdf.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第2节 Python基础二/文件操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/test.txt" />
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/小说文本挖掘.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他/叶子模型/聚类分析——Kmeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/teset1.txt" />
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/write.txt" />
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第14节 文本挖掘/sdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/12-19只用户聊天记录collect_list.txt" />
-    <entry file="file://$PROJECT_DIR$/情感分析/12-19chat_collect_list.txt" />
-    <entry file="file://$PROJECT_DIR$/情感分析/test1.txt" />
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第15节 文本相似度分析/比较用.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/输出分析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其他/qiubai3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/测试样本">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/情感分析/样本训练.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/文件.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/代理服务器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/淘宝图片.py">
+    <entry file="file://D:/Program Files (x86)/Python/Python36/Lib/site-packages/scrapy/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第5节 爬虫代理服务器实战/课后千图网图片.py">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/baidu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/爬虫的浏览器伪装技术.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/小常识">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/Fiddler">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/urllib.request.install_opener的作用">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第6节 scrapy框架的安装/爬取腾讯视频短评.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/天善学院Python3数据分析与挖掘实战/第4节 urllib库实战/urllib库实战2">
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/spiders/qsbk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/first/first/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>

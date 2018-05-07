@@ -1,0 +1,5 @@
+1.在浏览器中设置代理ip，默认是本地8888端口。即127.0.0.1:8888。让浏览器先通过fiddler。(但是我没有设置代理也可以使用)
+2.clear可以清理界面。
+3.可以在页面右下中的'TextView'找到对应连接的内容,有些内容已经被encode了，需要decode一下。
+4.Fiddler如何抓取HTTPS协议的网页 -->  https://ask.hellobi.com/blog/weiwei/5159
+##
