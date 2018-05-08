@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9053b128-eae1-4cef-92c7-1d9f594c8644" name="Default" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/文件操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第2节 Python基础二/文件操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/qsauto/qsauto/spiders/qsbk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/qsauto/qsauto/spiders/qsbk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/douban/spiders/doub.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/douban/spiders/doub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/result/captcha.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/result/captcha.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,13 +17,18 @@
       <file leaf-file-name="doub.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/douban/spiders/doub.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="342">
+              <caret line="25" column="61" lean-forward="true" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="captcha.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/result/captcha.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="微信爬虫实战.py" pinned="false" current-in-tab="false">
@@ -222,16 +225,7 @@
               <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
               <item name="第8节用Scrapy爬取网站的数据" type="462c0819:PsiDirectoryNode" />
               <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace-64bit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace-64bit" type="462c0819:PsiDirectoryNode" />
-              <item name="Python3DataAnalysisandMining" type="462c0819:PsiDirectoryNode" />
-              <item name="第8节用Scrapy爬取网站的数据" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -626,13 +620,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第7节scrapy爬虫/scrapy常用命令">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02 k-近邻算法/kNN-dating.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -952,10 +939,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/result/captcha.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python3DataAnalysisandMining/第8节用Scrapy爬取网站的数据/douban/douban/spiders/doub.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="342">
+          <caret line="25" column="61" lean-forward="true" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
