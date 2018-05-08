@@ -5,7 +5,8 @@
 # w 只能写 覆盖整个文件 不存在则创建
 # a 只能写 从文件底部添加内容 不存在则创建
 # a+ 可读可写 从文件顶部读取内容 从文件底部添加内容 不存在则创建
-file1=open("d:/file1.txt","w")
+# encoding指定写入的文件编码
+file1=open("d:/file1.txt","w",encoding='utf-8')
 #write(str[,]) 返回写入的长度
 file1.write("我买几个橘子去。你就在此地，不要走动。")
 file1.close()
