@@ -29,7 +29,7 @@ def run_game():
     while True:
         # 监视键盘和鼠标事件
         gf.check_event(ship)
-
+        ship.update()
         # 让背景色填充屏幕，此方法只接受一个实参
         gf.update_screen(ai_settings,screen,ship)
 

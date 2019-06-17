@@ -24,6 +24,18 @@ class Ship():
         self.rect.centerx = self.screen_rect.centerx
         self.rect.bottom = self.screen_rect.bottom
 
+        # 移动标志
+        self.moveing_right = False
+        self.moveing_left = False
+
+    def update(self):
+        """根据移动标志调整飞船的位置"""
+        # 这里用两个if，不用elif是因为当玩家同时按下两个键时，即加一又减一，最后飞船不动，而不会优先判定向右
+        if self.moveing_right:
+            self.rect.centerx += 1
+        if self.moveing_left:
+            self.rect.centerx -= 1
+
     def blitme(self):
         """在指定位置绘制飞船"""
         # blit文档：https://www.pygame.org/docs/ref/surface.html#pygame.Surface.blit
