@@ -3,3 +3,6 @@
 
 分布式爬虫
 1.使用scrapy+scrapy-redis+redis三者结合就可。具体实现方法待查
+
+# 可以获取当前所爬的url地址
+this=response.url
