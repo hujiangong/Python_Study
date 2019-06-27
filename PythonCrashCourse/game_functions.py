@@ -69,6 +69,10 @@ def update_bullets(bullets):
         if bullet.rect.bottom <= 0:
             bullets.remove(bullet)
 
+def update_aliens(ai_settings,aliens):
+    """更新外星人群中所有外星人的位置"""
+    check_fleet_edges(ai_settings,aliens)
+    aliens.update()
 
 def fire_bullet(ai_settings, screen, ship, bullets):
     """如果没有达成子弹上限，就发射一颗子弹"""
@@ -117,3 +121,18 @@ def creat_fleet(ai_settings, screen, ship, aliens):
         for alien_number in range(number_aliens_x):
             # 创建一个外星人并将其加入当前行
             create_alien(ai_settings, screen, aliens, alien_number, rows)
+
+def check_fleet_edges(ai_settings,aliens):
+    """有外星人到达边缘时采取相应的措施"""
+    for alien in aliens.sprites():
+        if alien.check_edges():
+            change_fleet_direction(ai_settings,aliens)
+            break
+
+def change_fleet_direction(ai_settings,aliens):
+    """将整群外星人下移，并改变它们的方向"""
+    for alien in aliens.sprites():
+        alien.rect.y += ai_settings.fleet_drop_speed
+    ai_settings.fleet_direction *= -1
+
+
