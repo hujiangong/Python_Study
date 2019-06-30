@@ -49,3 +49,7 @@ class Ship():
         """在指定位置绘制飞船"""
         # blit文档：https://www.pygame.org/docs/ref/surface.html#pygame.Surface.blit
         self.screen.blit(self.image, self.rect)
+
+    def center_ship(self):
+        """让飞船在屏幕上居中"""
+        self.centerx = self.screen_rect.center
