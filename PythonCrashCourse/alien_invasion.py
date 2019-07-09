@@ -10,6 +10,7 @@ from settings import Settings
 from ship import Ship
 from game_stats import GameStats
 from button import Button
+from scoreboard import Scoreboard
 import game_functions as gf
 from pygame.sprite import Group
 
@@ -27,6 +28,7 @@ def run_game():
     play_button = Button(ai_settings, screen, "Play")
     # 创建一个用于存储游戏统计信息的实例
     stats = GameStats(ai_settings)
+    sb = Scoreboard(ai_settings, screen, stats)
     # 创建一艘飞船
     ship = Ship(ai_settings, screen)
     # 创建一个用于存储子弹的编组
@@ -39,14 +41,14 @@ def run_game():
     # 开始游戏的主循环
     while True:
         # 监视键盘和鼠标事件
-        gf.check_events(ai_settings, screen, stats, play_button, ship, aliens, bullets)
+        gf.check_events(ai_settings, screen, stats, sb, play_button, ship, aliens, bullets)
         if stats.game_active:
             ship.update()
-            gf.update_bullets(ai_settings, screen, ship, aliens, bullets)
+            gf.update_bullets(ai_settings, screen, stats, sb, ship, aliens, bullets)
             # 对编组aliens调用update()，这将自动对每个外星人调动方法update()
-            gf.update_aliens(ai_settings, stats, screen, ship, aliens, bullets)
+            gf.update_aliens(ai_settings, screen, stats, sb, ship, aliens, bullets)
         # 让背景色填充屏幕，此方法只接受一个实参
-        gf.update_screen(ai_settings, screen, stats, ship, aliens, bullets, play_button)
+        gf.update_screen(ai_settings, screen, stats, sb, ship, aliens, bullets, play_button)
 
 
 run_game()

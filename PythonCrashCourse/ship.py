@@ -6,11 +6,13 @@
 # @Software: PyCharm
 
 import pygame
-from settings import Settings
+from pygame.sprite import Sprite
 
 
-class Ship():
+class Ship(Sprite):
     def __init__(self, ai_settings, screen):
+
+        super().__init__()
         """初始化飞船并设置其初始化位置"""
         self.screen = screen
         self.ai_settings = ai_settings
