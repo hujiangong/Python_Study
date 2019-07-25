@@ -6,12 +6,12 @@
 # @Software: PyCharm
 
 import pygame
-from settings import Settings
-from ship import Ship
-from game_stats import GameStats
-from button import Button
-from scoreboard import Scoreboard
-import game_functions as gf
+from ch12.settings import Settings
+from ch12.ship import Ship
+from ch12.game_stats import GameStats
+from ch12.button import Button
+from ch12.scoreboard import Scoreboard
+from ch12 import game_functions as gf
 from pygame.sprite import Group
 
 

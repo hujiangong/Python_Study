@@ -7,7 +7,7 @@
 
 import matplotlib.pyplot as plt
 
-from random_walk import RandomWalk
+from ch15.random_walk import RandomWalk
 
 # 创建一个RandomWalk实例，并将其包含的点都绘制出来
 # 只要程序处于活动状态，就不断的模拟随机漫步

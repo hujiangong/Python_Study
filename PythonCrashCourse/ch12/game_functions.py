@@ -8,8 +8,8 @@
 import sys
 
 import pygame
-from bullet import Bullet
-from alien import Alien
+from ch12.bullet import Bullet
+from ch12.alien import Alien
 from time import sleep
 
 
