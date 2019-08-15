@@ -87,14 +87,24 @@ line_chart.x_labels_major = dates[::N]
 close_log = [math.log10(_) for _ in close]  # ①
 line_chart.add('log收盘价', close_log)
 line_chart.render_to_file('收盘价对数变换折线图（¥）.svg')
-line_chart
+
+
 
 def draw_line(x_data, y_data, title, y_legend):
     xy_map = []
-    for x, y in groupby(sorted(zip(x_data, y_data)), key=lambda _: _[0]):  # 2
-        y_list = [v for _, v in y]
-        xy_map.append([x, sum(y_list) / len(y_list)])  # 3
-    x_unique, y_mean = [*zip(*xy_map)]  # 4
+    # groupby(iterabl ,key) key 为分组规则，返回（分组，分组值）
+    # sorted(iterabl ,key)返回list格式,key 为排序规则
+    # zip() 函数用于将可迭代的对象作为参数，将对象中对应的元素打包成一个个元组，然后返回由这些元组组成的对象
+    # lambda _: _[0] 相当于下面这段
+    # def fun(元素):
+    # 	return 元素[字段索引]
+    # key = fun(元素)
+    for x, y in groupby(sorted(zip(x_data, y_data)), key=lambda _: _[0]):
+        y_list = [value for month, value in y]
+        xy_map.append([x, sum(y_list) / len(y_list)])
+    # list 前面加*，表示去掉最外层的list
+    #zip(*)为解压，返回二维矩阵式
+    x_unique, y_mean = zip(*xy_map)  # 4
     line_chart = pygal.Line()
     line_chart.title = title
     line_chart.x_labels = x_unique
@@ -102,7 +112,11 @@ def draw_line(x_data, y_data, title, y_legend):
     line_chart.render_to_file(title + '.svg')
     return line_chart
 
+# index返回参数的索引值，从0开始
 idx_month = dates.index('2017-12-01')
+# for x, y in groupby(sorted(zip(months[:idx_month], close[:idx_month]), key=lambda _: _[0])):
+#     print('x',x)
+#     print('y',list(y))
 line_chart_month = draw_line(
     months[:idx_month], close[:idx_month], '收盘价月日均值（¥）', '月日均值')
 line_chart_month
